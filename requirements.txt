@@ -1,0 +1,7 @@
+pandas
+requests
+matplotlib
+prophet
+numpy
+scikit-learn
+tensorflow-cpu
