@@ -1,5 +1,6 @@
 🪙 DeFi Asset Fluctuation Analysis — Ethereum Case Study
-📌 Overview
+
+ Overview
 
 This project analyzes and forecasts Ethereum (ETH) price fluctuations in the DeFi (Decentralized Finance) ecosystem.
 It builds a simple, end-to-end data pipeline — from API collection to time-series forecasting — to understand market behavior and evaluate trends.
